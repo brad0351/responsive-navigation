@@ -8,14 +8,14 @@ html {
   -moz-text-sizeadjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  box-sizing: html {
     box-sizing: border-box;
+    font: normal 100%/1.3 sans-serif;
   }
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
 }
+
 
 body {
   margin: 0;
